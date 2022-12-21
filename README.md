@@ -15,4 +15,5 @@
 
 **TO EXECUTE**
 1. npm install
-2. node api.js
+2. In archive with name api.js in the line (12) Add your connection string into your application code
+3. node api.js

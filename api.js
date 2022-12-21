@@ -9,7 +9,7 @@ const port = 3000;
 
 
 //conexion a mongo
-mongoose.connect('mongodb+srv://jeissonm:123@cluster.nazegu4.mongodb.net/miapp?retryWrites=true&w=majority')
+mongoose.connect('Add your connection string into your application code')
 
 // user.* (refactorizacion de user.controller)
 app.get('/users', user.list)
