@@ -1,0 +1,31 @@
+Body {
+    color: #fff;
+    background: url("font.svg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+#user-form{
+text-align: center;
+}
+#div1{
+    margin: 10px 10px 10px 10px;
+}
+
+.submit{
+    margin: 10px 10px 10px 10px;
+}
+
+.block{
+    text-align:center;
+    }
+    
+#user-list{
+    text-align: left;
+    display:inline-block;
+    }
